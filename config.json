@@ -1,39 +1,39 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Portfolio",
+  "name": "Chase Geyer",
+  "ascii": "Portolio",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/chase-geyer/",
+    "linkedin": "https://www.linkedin.com/in/chase-geyer-129899156/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "internshipswithchase@email.com",
+  "ps1_hostname": "chase",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/chase-geyer/LiveTerm",
+  "resume_url": "https://drive.google.com/drive/folders/1C7t5FSx0dPY7oj1mMuQSOoy1sTdXJ1ox?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/",
+    "patreon": "https://patreon.com/"
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#D0C8C6",
+      "foreground": "#3B3228",
+      "yellow": "#F4BC87",
+      "green": "#BEB55B",
+      "gray": "#A89BB9",
+      "blue": "#8AB3B5",
+      "red": "#CB6077"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#3B3228",
+      "foreground": "#D0C8C6",
+      "yellow": "#F4BC87",
+      "green": "#BEB55B",
+      "gray": "#A89BB9",
+      "blue": "#8AB3B5",
+      "red": "#CB6077"
     }
   }
 }
